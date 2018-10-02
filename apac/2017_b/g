@@ -1,0 +1,17 @@
+1
+3
+a=f(b,d)
+b=j()
+c=h()
+
+
+
+2
+a=f(b)
+b=f(a)
+2
+aaa=foo(x,y)
+bbb=bar(aaa,bbb)
+2
+x=f()
+y=g(x,x)
